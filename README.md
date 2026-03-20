@@ -133,9 +133,3 @@ reconx2_target.com_20260319/
 ```
 
 ---
-
-## License
-
-MIT — see [LICENSE](LICENSE)
-
-*by Vimal T*
