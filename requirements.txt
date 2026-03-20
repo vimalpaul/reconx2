@@ -1,0 +1,9 @@
+# ReconX2 Python Dependencies
+# Core: uses Python standard library only (no install needed)
+# Optional dependencies below:
+
+# Required for XLSX report generation
+openpyxl>=3.1.0
+
+# Required for YAML config file support (Python < 3.11)
+# PyYAML>=6.0
